@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "com.kkyoungs.samplewatchapp"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.kkyoungs.samplewatchapp"
+        applicationId = "com.bple.hyundai.android"
         minSdk = 30
-        targetSdk = 33
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
         vectorDrawables {
